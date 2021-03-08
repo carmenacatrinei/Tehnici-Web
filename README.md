@@ -4,11 +4,14 @@ Documentație site „Costume Nemuritoare”
 
 Proiectul pe care îl realizez va conține diverse informații despre costumele nemuritoare ale țării noastre, și anume costumele populare. 
 Astfel, îmi propun ca site-ul să fie organizat în modul următor:
+
 •	Acasă – pagina de pornire a site-ului.
   o	Despre Noi – cine suntem, care este scopul nostru
   o	Clipurile Lunii - În această secțiune vor fi publicate lunar clipuri noi sau vechi de la tineri artiști sau artiști consacrați ai muzicii tradiționale românești
   o	Contact – adresa de email și numărul de telefon la care pot fi contactată pentru diverse sugestii, întrebări etc., cât și adresa sediului.
+  
 •	Istoric – scurt istoric despre costumele populare, materialele din care erau și sunt confecționate, video de prezentare.
+
 •	Zone etnofolclorice – în fiecare zonă, fiecare articol vestimentar va fi analizat, atât după tipul articolului vestimentar (ie, fustă, ghete etc.), 
 cât și după motivele tradiționale.
   o	Moldova 
@@ -17,6 +20,7 @@ cât și după motivele tradiționale.
   o	Dobrogea
   o	Transilvania
   o	Banat
+  
 •	Articole – articole vestimentare sortate pe categorii, care pot fi identificate după diferite filtre (anul aproximativ, material, zonă etc.)
 
 Cuvintele cheie ale site-ului sunt costume populare, costume nemuritoare, tradițional, zonele etnofolclorice și tipurile de articol vestimentar, costume, popular, românesc, etnofolcloric, etnografie.
