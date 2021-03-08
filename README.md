@@ -19,7 +19,7 @@ cât și după motivele tradiționale.
   o	Banat
 •	Articole – articole vestimentare sortate pe categorii, care pot fi identificate după diferite filtre (anul aproximativ, material, zonă etc.)
 
-Cuvintele cheie ale site-ului sunt costume populare, costume nemuritoare, tradițional, zonele etnofolclorice și tipurile de articol vestimentar. 
+Cuvintele cheie ale site-ului sunt costume populare, costume nemuritoare, tradițional, zonele etnofolclorice și tipurile de articol vestimentar, costume, popular, românesc, etnofolcloric, etnografie.
 Cuvintele cheie pentru fiecare pagină în parte sunt numele efectiv al paginii, iar la zonele etnofolclorice se adaugă, în plus, tipurile de articol vestimentar.
 Site-uri asemănătoare cu ceea ce îmi doresc eu să fac nu prea există, dar sunt unele care respectă o parte din ideile mele:
 1.	https://bromania.ro/
