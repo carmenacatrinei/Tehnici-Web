@@ -1,0 +1,38 @@
+Cerințe etapa 2:
+
+1: liniile 1, 2
+
+2: liniile 9 - 12
+
+3: linia 21
+
+4: linia 19
+
+5: header - linia 26
+   main - linia 53
+   footer - linia 114
+
+6: liniile 27 - 51
+
+7: linia 54
+
+8: p - linia 56
+   ul - linia 71 
+
+9: sunt puse cu <b>
+
+10: a) linia 58
+    d) linia 61
+    h) linia 77
+
+11: link extern: linia 78
+    link in footer: linia 124
+    link-uri in iframe: liniile 85, 96
+
+12: liniile 77, 87, 98
+
+13: linia 115
+
+14: linia 123
+
+15: -
