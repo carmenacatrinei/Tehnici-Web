@@ -39,4 +39,7 @@ Site-uri asemănătoare cu ceea ce îmi doresc eu să fac nu prea există, dar s
 2.	https://www.magazindeartizanat.ro/porturi-traditionale (galeria foto de aici este una bună)
 3.	https://sites.google.com/site/costumulpopularromanesc/family-profiles (acesta se apropie mai mult de ideea mea, dar este cam dezorganizat)
 
+Am ales această schemă de culori pentru site deoarece culorile sunt calde și îți dau o stare de bine, apropiate de culoarea predominantă pe costumele populare românești, și anume roșu, care seminifică dragoste, sânge, foc, energie, putere. 
+Culorile calde stimulează – oferă un boost atenției, previn plictiseala în parcurgerea informației, evidențiază puncte importante care trebuie reținute, stimulează activitatea mentală.
+
 Copyright ©Acatrinei Carmen-Lorena 2020
